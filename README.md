@@ -32,6 +32,6 @@ Dark-Fi is created by lolcat-y.
 
 ## Contact
 
-- Discord: ovmjesus
-- Instagram: officialovmjesus
+- Discord: 90643616
+- Instagram: drc
 - GitHub: lolcat-y
